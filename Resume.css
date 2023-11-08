@@ -1,0 +1,206 @@
+/* -------------Universal----------------- */
+h2{
+    color: #16c7be;
+    text-decoration: underline;
+}
+
+.date{
+    color: #0d857d;
+    font-weight: lighter;
+}
+/* -------------header------------- */
+header{
+    background-color: #0a3d4d;
+    border-width: 2px;
+    border-color: #0a0229;
+    border-style: solid;
+}
+
+.head{
+    display: flex;
+    margin-left: 30px;
+}
+
+#image{
+    width: 200px;
+    height: 150px;
+    margin-left: 150px;
+    border-width: 5px;
+    border-color: #fff;
+    border-style: solid;
+    border-radius: 1000%;
+    margin-top: 20px;
+}
+
+#name{
+    color: #fff;
+    margin-left: 20px;
+}
+
+#deg{
+    color: #0d857d;
+    margin-left: 20px;
+}
+
+#des{
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: normal;
+    margin-top: -2px;
+}
+
+.photo{
+    float: right;
+    width: 30%;
+}
+
+/* ---------------nav --------------------*/
+nav{
+    background-color: #0a0229;
+    /* margin-left: 30px;
+    margin-right: 30px; */
+    margin-top: 0%;
+}
+
+.info{
+    display: flex;
+}
+
+.email{
+    margin-left: 50px;
+}
+
+#no{
+    margin-left: 40%;
+}
+
+#email{
+    color: #fff;
+}
+#phn{
+    color: #fff;
+}
+#loc{
+    color: #fff;
+}
+#linkedin{
+    color:#fff;
+}
+
+/* -------------------main----------------- */
+.container{
+    display: flex;
+    margin: 30px;
+    margin-right: 30px;
+}
+
+.side{
+    margin-left: 15%;
+}
+
+#edu{
+    margin-left: 1%;
+}
+
+#course{
+    color: #0d857d;
+}
+
+#sep1{
+    display: flex;
+}
+
+#sep2{
+    display: flex;
+}
+
+#sep3{
+    display: flex;
+}
+
+#loc1{
+    margin-left: 150px;
+}
+
+#loc2{
+    margin-left: 150px;
+}
+
+#loc3{
+    margin-left: 150px;
+}
+
+#btech{
+    margin-left: -22px;
+    display: flex;
+}
+
+#hsc{
+    margin-left: -22px;
+    display: flex;
+}
+
+#cgpa{
+    margin-left: 80px;
+}
+
+#twe{
+    margin-left: 160px;
+}
+
+#ssc{
+    margin-left: -22px;
+}
+
+/* --------------------Project------------------ */
+.bt{
+    margin-left: -22px;
+    text-decoration: #0d857d;
+}
+
+/* -----------------Skills -------------------*/
+article button{
+    background-color: grey;
+    font-size: 100%;
+    color: #fff;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+    border-radius: 5px;
+}
+
+.skills{
+    margin-left: 10px;
+}
+
+/* --------------Language------------------ */
+#prof1{
+    margin-left: -50px;
+    margin-top: 30px;
+    color: #0d857d;;
+}
+
+#prof2{
+    margin-left: -50px;
+    margin-top: 30px;
+    color: #0d857d;;
+}
+
+#prof3{
+    margin-top: 2%;
+    color: #0d857d;;    
+}
+
+#lang
+{
+    display: flex;
+}
+
+#hindi{
+    margin-left: 50px;
+}
+
+#language{
+    margin-left: -25px;
+}
